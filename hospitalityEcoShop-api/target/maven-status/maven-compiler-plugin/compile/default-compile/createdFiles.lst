@@ -1,0 +1,10 @@
+lt\code\academy\hospitalityecoshopapi\products\ProductsController.class
+lt\code\academy\hospitalityecoshopapi\HospitalityEcoShopApiApplication.class
+lt\code\academy\hospitalityecoshopapi\products\Endpoint.class
+lt\code\academy\hospitalityecoshopapi\products\exception\data\ExceptionResponse.class
+lt\code\academy\hospitalityecoshopapi\products\repository\ProductRepository.class
+lt\code\academy\hospitalityecoshopapi\products\service\ProductExceptionAdvice.class
+lt\code\academy\hospitalityecoshopapi\products\exception\ProductNotExistRuntimeException.class
+lt\code\academy\hospitalityecoshopapi\products\entity\ProductEntity.class
+lt\code\academy\hospitalityecoshopapi\products\service\ProductService.class
+lt\code\academy\hospitalityecoshopapi\products\dto\Product.class
